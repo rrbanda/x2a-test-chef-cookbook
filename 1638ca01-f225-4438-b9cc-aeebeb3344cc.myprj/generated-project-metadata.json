@@ -1,0 +1,8 @@
+[
+  {
+    "name": "hello_world",
+    "path": "/",
+    "description": "Logs the static message \"Hello, World!\" to the Chef log output during a Chef client run.",
+    "technology": "Chef"
+  }
+]
