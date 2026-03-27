@@ -1,0 +1,53 @@
+{
+  "module_name": "hello_world",
+  "items": [
+    {
+      "category": "structure",
+      "source_path": "N/A",
+      "target_path": "ansible/roles/hello_world/tasks/main.yml",
+      "status": "complete",
+      "description": "Main tasks file for the role",
+      "notes": ""
+    },
+    {
+      "category": "structure",
+      "source_path": "N/A",
+      "target_path": "ansible/roles/hello_world/defaults/main.yml",
+      "status": "complete",
+      "description": "Default variables file for the role",
+      "notes": ""
+    },
+    {
+      "category": "structure",
+      "source_path": "N/A",
+      "target_path": "ansible/roles/hello_world/meta/main.yml",
+      "status": "complete",
+      "description": "Role metadata file",
+      "notes": "Created standard meta/main.yml"
+    },
+    {
+      "category": "structure",
+      "source_path": "N/A",
+      "target_path": "ansible/roles/hello_world/vars/main.yml",
+      "status": "complete",
+      "description": "Role variables file",
+      "notes": ""
+    },
+    {
+      "category": "structure",
+      "source_path": "N/A",
+      "target_path": "ansible/roles/hello_world/handlers/main.yml",
+      "status": "complete",
+      "description": "Handlers file for the role",
+      "notes": ""
+    },
+    {
+      "category": "structure",
+      "source_path": "N/A",
+      "target_path": "ansible/roles/hello_world/README.md",
+      "status": "complete",
+      "description": "Role README file",
+      "notes": ""
+    }
+  ]
+}
